@@ -110,15 +110,14 @@ Each GIF is a compressed preview; full-quality videos are linked below.
 <table>
   <tr>
     <td align="center">
-      <img src="docs/images/tubelet_embedding.jpg" width="380" />
+      <img src="docs/images/tubelet_embedding.JPG" width="380" />
       <br>
       <sub><b>Tubelet Embedding (2-frame patches)</b></sub>
     </td>
-
     <td align="center">
-      <img src="docs/images/vivit_fe.jpg" width="380" />
+      <img src="docs/images/vivit_fe.JPG" width="380" />
       <br>
-      <sub><b>ViViT Feature Extractor</b></sub>
+      <sub><b>Vivit_Factorised_Encoder</b></sub>
     </td>
   </tr>
 </table>
